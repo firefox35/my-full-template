@@ -4,7 +4,7 @@ Welcome! [Code Institute](https://codeinstitute.net)
 
 ## Project Description
 
-The project is to learn HTML and to styling it with CSS along with understanding to use GitHub to store your code in central location and preview a live version online.
+The project is to learn HTML and styling with CSS along with understanding to use GitHub to store your code in central location and preview a live version online.
 
 ## Technology
 
